@@ -1,0 +1,15 @@
+0 navy
+1 purple
+2 yellow
+3 white
+4 red
+5 brown
+6 blue
+7 orange color
+8 black
+9 blue green
+10 green
+11 pink
+12 purple blue
+13 green yellow
+14 red purple
