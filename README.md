@@ -115,8 +115,8 @@ It integrates **machine learning (Keras / Teachable Machine)**, **computer visio
 ---
 
 ## Author
-**Project Lead:** [Your Name]  
-**Affiliation:** [University / Department]  
+**Project Lead:** [Jian Yi]  
+**Affiliation:** [Hanyang University / Intercollege]  
 **Version:** 1.0  
 **Environment:** TensorFlow 2.x / Keras / Python 3.12 / Arduino IDE  
 **Platform:** Google Colab + MIT App Inventor + Arduino BLE
